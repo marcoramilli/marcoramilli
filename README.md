@@ -1,4 +1,12 @@
-### [Marco Ramilli](https://marcoramilli.com) <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Marco_Ramilli?style=social">
+### Marco Ramilli
+
+<p align="left">
+ <a href="https://www.linkedin.com/in/marcoramilli/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn">
+ <a href="https://twitter.com/Marco_Ramilli/" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white&color=071A2C" alt="Twitter">
+  </a>
+</p>
 
 Hi! I am cyber security expert by meaning that I spent all my life in that field, I am an entrepreneur, writer and white-hat hacker. I received my PhD on Information Communication Technology from University of Bologna joining University of California at Davis. Here on GitHub I'm just a casual coder. For knowing more about me, please visit my web-corner [marcoramilli.com](https://marcoramilli.com) 
 
