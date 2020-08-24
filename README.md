@@ -12,11 +12,11 @@ Hi! I am Marco Ramilli ad I invested all my life in working for what is my passi
 
 ## News from Personal Blog
 <!--START_SECTION:feed-->
+* [How to Reverse Office Droppers: Personal Notes](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2020&#x2F;08&#x2F;24&#x2F;how-to-reverse-office-droppers-personal-notes&#x2F;)
 * [Introducing PhishingKitTracker](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2020&#x2F;07&#x2F;16&#x2F;introducing-phishingkittracker&#x2F;)
 * [Cyber Threats Trends 6 Months Of Findings](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2020&#x2F;07&#x2F;06&#x2F;cyber-threats-trends-6-months-of-findings&#x2F;)
 * [Is upatre downloader coming back ?](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2020&#x2F;06&#x2F;24&#x2F;is-upatre-downloader-coming-back&#x2F;)
 * [Cyber Threats Observatory Gets Improvements](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2020&#x2F;05&#x2F;03&#x2F;cyber-threats-observatory-gets-improvements&#x2F;)
-* [Cybersecurity Trends](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2020&#x2F;04&#x2F;13&#x2F;cybersecurity-trends&#x2F;)
 <!--END_SECTION:feed-->
 
 ## Quick Stats
