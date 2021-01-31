@@ -12,11 +12,11 @@ Hi! I am Marco Ramilli ad I invested all my life in working for what is my passi
 
 ## News from Personal Blog
 <!--START_SECTION:feed-->
+* [[ITA] Gratitudine e Cambiamento](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2021&#x2F;01&#x2F;30&#x2F;ita-gratitudine-e-cambiamento&#x2F;)
 * [C2 Traffic Patterns: Personal Notes](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2021&#x2F;01&#x2F;09&#x2F;c2-traffic-patterns-personal-notes&#x2F;)
 * [Malware Delivery Platforms in 2020](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2020&#x2F;12&#x2F;08&#x2F;malware-delivery-platforms-in-2020&#x2F;)
 * [Threat Actor: Unkown](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2020&#x2F;11&#x2F;27&#x2F;threat-actor-unkown&#x2F;)
 * [How To Unpack Malware: Personal Notes](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2020&#x2F;10&#x2F;09&#x2F;how-to-unpack-malware-personal-notes&#x2F;)
-* [Tracking PhishingKits   for Hunting APT Evolution](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2020&#x2F;09&#x2F;29&#x2F;tracking-phishingkits-for-hunting-apt-evolution&#x2F;)
 <!--END_SECTION:feed-->
 
 ## Quick Stats
