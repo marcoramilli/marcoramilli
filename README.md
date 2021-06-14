@@ -12,11 +12,11 @@ Hi! I am Marco Ramilli ad I invested all my life in working for what is my passi
 
 ## News from Personal Blog
 <!--START_SECTION:feed-->
+* [The Allegedly Ryuk Ransomware builder: #RyukJoke](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2021&#x2F;06&#x2F;14&#x2F;the-allegedly-ryuk-ransomware-builder-ryukjoke&#x2F;)
 * [MuddyWater: Binder Project (Part 2)](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2021&#x2F;05&#x2F;07&#x2F;muddywater-binder-project-part-2&#x2F;)
 * [MuddyWater: Binder Project (Part 1)](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2021&#x2F;05&#x2F;01&#x2F;muddywater-binder-project-part-1&#x2F;)
 * [Malware Family Surface 2021 (Q1)](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2021&#x2F;03&#x2F;15&#x2F;malware-family-surface-2021-q1&#x2F;)
 * [0-Day Malware (2020)](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2021&#x2F;03&#x2F;08&#x2F;0-day-malware-2021&#x2F;)
-* [Folding Through Distributed Computing For Science](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2021&#x2F;02&#x2F;25&#x2F;folding-through-distributed-computing-for-science&#x2F;)
 <!--END_SECTION:feed-->
 
 ## Quick Stats
