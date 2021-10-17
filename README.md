@@ -12,11 +12,11 @@ Hi! I am Marco Ramilli ad I invested all my life in working for what is my passi
 
 ## News from Personal Blog
 <!--START_SECTION:feed-->
+* [Arts in digital defence](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2021&#x2F;10&#x2F;16&#x2F;arts-in-digital-defence&#x2F;)
 * [Program Synthesis for Deobfuscation](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2021&#x2F;09&#x2F;13&#x2F;program-synthesis-for-deobfuscation&#x2F;)
 * [Paradise Ransomware: The Builder](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2021&#x2F;08&#x2F;23&#x2F;paradise-ransomware-the-builder&#x2F;)
 * [Babuk Ransomware: The Builder](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2021&#x2F;07&#x2F;05&#x2F;babuk-ransomware-the-builder&#x2F;)
 * [The Allegedly Ryuk Ransomware builder: #RyukJoke](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2021&#x2F;06&#x2F;14&#x2F;the-allegedly-ryuk-ransomware-builder-ryukjoke&#x2F;)
-* [MuddyWater: Binder Project (Part 2)](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2021&#x2F;05&#x2F;07&#x2F;muddywater-binder-project-part-2&#x2F;)
 <!--END_SECTION:feed-->
 
 ## Quick Stats
