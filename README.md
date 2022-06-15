@@ -12,11 +12,11 @@ Hi! I am Marco Ramilli ad I invested all my life in working for what is my passi
 
 ## News from Personal Blog
 <!--START_SECTION:feed-->
+* [Running Shellcode Through Windows Callbacks](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2022&#x2F;06&#x2F;15&#x2F;running-shellcode-through-windows-callbacks&#x2F;)
 * [A Malware Analysis in RU-AU conflict](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2022&#x2F;05&#x2F;10&#x2F;a-malware-analysis-in-ru-au-conflict&#x2F;)
 * [From a Phishing Page to a Possible Threat Actor](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2022&#x2F;04&#x2F;14&#x2F;from-a-phishing-page-to-a-possible-threat-actor&#x2F;)
 * [DiskKill&#x2F;HermeticWiper and NotPetya (Dis)similarities](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2022&#x2F;03&#x2F;01&#x2F;diskkill-hermeticwiper-and-notpetya-dissimilarities&#x2F;)
 * [Cybersecurity Standards: A Quick Overview](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2022&#x2F;02&#x2F;07&#x2F;cybersecurity-standards-a-quick-overview&#x2F;)
-* [Building your Kubernets Cluster For Cybersecurity Prototyping](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2022&#x2F;01&#x2F;18&#x2F;building-your-kubernets-cluster-for-cybersecurity-prototyping&#x2F;)
 <!--END_SECTION:feed-->
 
 ## Quick Stats
