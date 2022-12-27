@@ -12,11 +12,11 @@ Hi! I am Marco Ramilli ad I dedicated all my life in working for what is my pass
 
 ## News from Personal Blog
 <!--START_SECTION:feed-->
+* [Most Exploited Vulnerabilities in 2022](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2022&#x2F;12&#x2F;27&#x2F;most-exploited-vulnerabilities-in-2022&#x2F;)
 * [Is Hagga Threat Actor (ab)using FSociety framework ?](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2022&#x2F;11&#x2F;21&#x2F;is-hagga-threat-actor-abusing-fsociety-framework&#x2F;)
 * [Phishing Kits: Threat Actors Analysis Research](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2022&#x2F;11&#x2F;09&#x2F;phishing-kits-threat-actors-analysis-research&#x2F;)
 * [Windows System Calls For Hunters](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2022&#x2F;08&#x2F;23&#x2F;windows-system-calls-for-hunters&#x2F;)
 * [Cyber Threats Tracker: Status Update](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2022&#x2F;06&#x2F;22&#x2F;cyber-threats-tracker-status-update&#x2F;)
-* [Running Shellcode Through Windows Callbacks](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2022&#x2F;06&#x2F;15&#x2F;running-shellcode-through-windows-callbacks&#x2F;)
 <!--END_SECTION:feed-->
 
 ## Quick Stats
