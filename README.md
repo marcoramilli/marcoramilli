@@ -12,11 +12,11 @@ Hi! I am Marco Ramilli ad I dedicated all my life in working for what is my pass
 
 ## News from Personal Blog
 <!--START_SECTION:feed-->
+* [Malware Families CheatSheet](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;03&#x2F;02&#x2F;malware-families-cheatsheet&#x2F;)
 * [Amazing Books: The Podcast](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;02&#x2F;20&#x2F;amazing-books-the-podcast&#x2F;)
 * [Threat Actors Sheets: OpenAI Generated !](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;02&#x2F;16&#x2F;threat-actors-sheets-openai-generated&#x2F;)
 * [Onenote Malware: Classification and Personal Notes](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;02&#x2F;04&#x2F;onenote-malware-classification-and-personal-notes&#x2F;)
 * [Most Exploited Vulnerabilities in 2022](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2022&#x2F;12&#x2F;27&#x2F;most-exploited-vulnerabilities-in-2022&#x2F;)
-* [Is Hagga Threat Actor (ab)using FSociety framework ?](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2022&#x2F;11&#x2F;21&#x2F;is-hagga-threat-actor-abusing-fsociety-framework&#x2F;)
 <!--END_SECTION:feed-->
 
 ## Quick Stats
