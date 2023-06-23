@@ -12,11 +12,11 @@ Hi! I am Marco Ramilli ad I dedicated all my life in working for what is my pass
 
 ## News from Personal Blog
 <!--START_SECTION:feed-->
+* [2023 Breaches and Incidents: Personal Notes](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;06&#x2F;22&#x2F;2023-breaches-and-incidents-personal-notes&#x2F;)
 * [Polymorphic Malware Using #AI](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;05&#x2F;25&#x2F;polymorphic-malware-using-ai&#x2F;)
 * [The Relevance of Prompts in AI and Cybersecurity](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;04&#x2F;30&#x2F;the-relevance-of-prompts-in-ai-and-cybersecurity&#x2F;)
 * [Many Generative Pre-Trained Transformer (GPT): a pragmatic evaluation.](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;04&#x2F;12&#x2F;many-generative-pre-trained-transformer-gpt-a-pragmatic-evaluation&#x2F;)
 * [Reversing Emotet Dropping Javascript](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;03&#x2F;22&#x2F;reversing-emotet-dropping-javascript&#x2F;)
-* [Malware Families CheatSheet](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;03&#x2F;02&#x2F;malware-families-cheatsheet&#x2F;)
 <!--END_SECTION:feed-->
 
 ## Quick Stats
