@@ -8,7 +8,7 @@
   </a>
 </p>
 
-Hi! I am Marco Ramilli ad I dedicated all my life in working for what is my passion: Cyber Defence. I am an entrepreneur, writer and white-hat hacker. I received a PhD on Information Communication Technology from University of Bologna joining University of California at Davis. On GitHub I'm just a casual coder. For knowing more about me, please visit my web-corner [marcoramilli.com](https://marcoramilli.com) 
+Hi! I am Marco Ramilli. I dedicated all my life in working for what is my passion: Cyber Defence. I am an entrepreneur, writer and white-hat hacker. I received a PhD on Information Communication Technology from University of Bologna joining University of California at Davis. On GitHub I'm just a casual coder. For knowing more about me, please visit my web-corner [marcoramilli.com](https://marcoramilli.com) 
 
 ## News from Personal Blog
 <!--START_SECTION:feed-->
