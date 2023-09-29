@@ -12,11 +12,11 @@ Hi! I am Marco Ramilli. I dedicated all my life in working for what is my passio
 
 ## News from Personal Blog
 <!--START_SECTION:feed-->
+* [Understanding and Defending Against Microsoft 365 Attacks](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;09&#x2F;29&#x2F;understanding-and-defending-against-microsoft-365-attacks&#x2F;)
 * [Malware Persistence Locations: Windows and Linux](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;09&#x2F;23&#x2F;malware-persistence-locations-windows-and-linux&#x2F;)
 * [Leading the uncertainty: the decision-driven approach](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;09&#x2F;14&#x2F;leading-the-uncertainty-the-decision-driven-approach&#x2F;)
 * [2023 Breaches and Incidents: Personal Notes](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;06&#x2F;22&#x2F;2023-breaches-and-incidents-personal-notes&#x2F;)
 * [Polymorphic Malware Using #AI](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;05&#x2F;25&#x2F;polymorphic-malware-using-ai&#x2F;)
-* [The Relevance of Prompts in AI and Cybersecurity](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;04&#x2F;30&#x2F;the-relevance-of-prompts-in-ai-and-cybersecurity&#x2F;)
 <!--END_SECTION:feed-->
 
 ## Quick Stats
