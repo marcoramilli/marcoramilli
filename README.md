@@ -12,11 +12,11 @@ Hi! I am Marco Ramilli. I dedicated all my life in working for what is my passio
 
 ## News from Personal Blog
 <!--START_SECTION:feed-->
-* [Detected: Allegedly leaked Database of Bharat Sanchar Nigam Limited (BSNL)](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;12&#x2F;03&#x2F;detected-allegedly-leaked-database-of-bharat-sanchar-nigam-limited-bsnl&#x2F;)
-* [Detected: Java DDOS 〄 Power Proof targets the website of Zefoy](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;12&#x2F;03&#x2F;detected-java-ddos-%e3%80%84-power-proof-targets-the-website-of-zefoy&#x2F;)
-* [Detected: Alleged sale of American clothing store database](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;12&#x2F;03&#x2F;detected-alleged-sale-of-american-clothing-store-database&#x2F;)
-* [Detected: Roblox falls victim to ALPHV Ransomware](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;12&#x2F;03&#x2F;detected-roblox-falls-victim-to-alphv-ransomware&#x2F;)
-* [Detected: Tipalti falls victim to ALPHV Ransomware](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;12&#x2F;03&#x2F;detected-tipalti-falls-victim-to-alphv-ransomware&#x2F;)
+* [Detected: Allegedly leaked NASA E-mails and Files](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;12&#x2F;04&#x2F;detected-allegedly-leaked-nasa-e-mails-and-files&#x2F;)
+* [Detected: Alleged sale of unauthorized access to QPay](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;12&#x2F;04&#x2F;detected-alleged-sale-of-unauthorized-access-to-qpay&#x2F;)
+* [Detected: Alleged sale of Boursobank Phone number Checker](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;12&#x2F;04&#x2F;detected-alleged-sale-of-boursobank-phone-number-checker&#x2F;)
+* [Detected: Alleged sale of Domain Admin access on Logistic Enterprise](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;12&#x2F;04&#x2F;detected-alleged-sale-of-domain-admin-access-on-logistic-enterprise&#x2F;)
+* [Detected: Alleged sale of MDBA leak](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;12&#x2F;04&#x2F;detected-alleged-sale-of-mdba-leak&#x2F;)
 <!--END_SECTION:feed-->
 
 ## Quick Stats
