@@ -12,11 +12,11 @@ Hi! I am Marco Ramilli. I dedicated all my life in working for what is my passio
 
 ## News from Personal Blog
 <!--START_SECTION:feed-->
-* [Detected: Allegedly leaked NASA E-mails and Files](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;12&#x2F;04&#x2F;detected-allegedly-leaked-nasa-e-mails-and-files&#x2F;)
-* [Detected: Alleged sale of unauthorized access to QPay](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;12&#x2F;04&#x2F;detected-alleged-sale-of-unauthorized-access-to-qpay&#x2F;)
-* [Detected: Alleged sale of Boursobank Phone number Checker](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;12&#x2F;04&#x2F;detected-alleged-sale-of-boursobank-phone-number-checker&#x2F;)
-* [Detected: Alleged sale of Domain Admin access on Logistic Enterprise](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;12&#x2F;04&#x2F;detected-alleged-sale-of-domain-admin-access-on-logistic-enterprise&#x2F;)
-* [Detected: Alleged sale of MDBA leak](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;12&#x2F;04&#x2F;detected-alleged-sale-of-mdba-leak&#x2F;)
+* [Detected: EXECUTOR DDOS targets the website of Independent Persian](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;12&#x2F;05&#x2F;detected-executor-ddos-targets-the-website-of-independent-persian&#x2F;)
+* [Detected: EXECUTOR DDOS targets the website of SBS INFORMATIQUE](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;12&#x2F;05&#x2F;detected-executor-ddos-targets-the-website-of-sbs-informatique&#x2F;)
+* [Detected: Bangladesh Civilian Force targets the website of Mercantile Bank Israel](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;12&#x2F;05&#x2F;detected-bangladesh-civilian-force-targets-the-website-of-mercantile-bank-israel&#x2F;)
+* [Detected: Allegedly leaked Internal telephone directory of State Grid Corporation of China](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;12&#x2F;05&#x2F;detected-allegedly-leaked-internal-telephone-directory-of-state-grid-corporation-of-china&#x2F;)
+* [Detected: Allegedly leaked Confidential list under surveillance from TAIWAN](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;12&#x2F;05&#x2F;detected-allegedly-leaked-confidential-list-under-surveillance-from-taiwan&#x2F;)
 <!--END_SECTION:feed-->
 
 ## Quick Stats
