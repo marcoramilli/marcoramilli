@@ -12,11 +12,11 @@ Hi! I am Marco Ramilli. I dedicated all my life in working for what is my passio
 
 ## News from Personal Blog
 <!--START_SECTION:feed-->
-* [Detected: Calgary TELUS falls victim to 8BASE Ransomware](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;12&#x2F;06&#x2F;detected-calgary-telus-falls-victim-to-8base-ransomware&#x2F;)
-* [Detected: Lischkoff and Pitts, P.C. falls victim to 8BASE Ransomware](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;12&#x2F;06&#x2F;detected-lischkoff-and-pitts-p-c-falls-victim-to-8base-ransomware&#x2F;)
-* [Detected: SMG Confrere falls victim to 8BASE Ransomware](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;12&#x2F;06&#x2F;detected-smg-confrere-falls-victim-to-8base-ransomware&#x2F;)
-* [Detected: Alleged sale of unauthorized access to Kusak Soft](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;12&#x2F;06&#x2F;detected-alleged-sale-of-unauthorized-access-to-kusak-soft&#x2F;)
-* [Detected: Illicit RDP access sale of Belgium](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;12&#x2F;06&#x2F;detected-illicit-rdp-access-sale-of-belgium&#x2F;)
+* [Detected: Alleged sale of Corporate Company Database in US and Europe](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;12&#x2F;07&#x2F;detected-alleged-sale-of-corporate-company-database-in-us-and-europe&#x2F;)
+* [Detected: Alleged sale of MacOS Metamask stealer](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;12&#x2F;07&#x2F;detected-alleged-sale-of-macos-metamask-stealer&#x2F;)
+* [Detected: Visan falls victim to 8BASE Ransomware](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;12&#x2F;07&#x2F;detected-visan-falls-victim-to-8base-ransomware&#x2F;)
+* [Detected: Alleged data breach of jaredsec.com](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;12&#x2F;07&#x2F;detected-alleged-data-breach-of-jaredsec-com&#x2F;)
+* [Detected: eBay Kleinanzeigen data allegedly leaked](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;12&#x2F;07&#x2F;detected-ebay-kleinanzeigen-data-allegedly-leaked&#x2F;)
 <!--END_SECTION:feed-->
 
 ## Quick Stats
