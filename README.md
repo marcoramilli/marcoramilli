@@ -12,11 +12,11 @@ Hi! I am Marco Ramilli. I dedicated all my life in working for what is my passio
 
 ## News from Personal Blog
 <!--START_SECTION:feed-->
-* [Detected: Alleged sale of Corporate Company Database in US and Europe](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;12&#x2F;07&#x2F;detected-alleged-sale-of-corporate-company-database-in-us-and-europe&#x2F;)
-* [Detected: Alleged sale of MacOS Metamask stealer](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;12&#x2F;07&#x2F;detected-alleged-sale-of-macos-metamask-stealer&#x2F;)
-* [Detected: Visan falls victim to 8BASE Ransomware](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;12&#x2F;07&#x2F;detected-visan-falls-victim-to-8base-ransomware&#x2F;)
-* [Detected: Alleged data breach of jaredsec.com](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;12&#x2F;07&#x2F;detected-alleged-data-breach-of-jaredsec-com&#x2F;)
-* [Detected: eBay Kleinanzeigen data allegedly leaked](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;12&#x2F;07&#x2F;detected-ebay-kleinanzeigen-data-allegedly-leaked&#x2F;)
+* [Detected: Tri-city Medical Center victim to INC RANSOM Ransomware](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;12&#x2F;08&#x2F;detected-tri-city-medical-center-victim-to-inc-ransom-ransomware&#x2F;)
+* [Detected: Allegedly leaked the database of Adityapur Dies](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;12&#x2F;08&#x2F;detected-allegedly-leaked-the-database-of-adityapur-dies&#x2F;)
+* [Detected: Omega Interventional Pain Clinic falls victim to LockBit Ransomware](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;12&#x2F;08&#x2F;detected-omega-interventional-pain-clinic-falls-victim-to-lockbit-ransomware&#x2F;)
+* [Detected: Alleged sale of unauthorized access to Bidasoa Activa](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;12&#x2F;08&#x2F;detected-alleged-sale-of-unauthorized-access-to-bidasoa-activa&#x2F;)
+* [Detected: Anonymous Sudan targets the website of The Economist](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;12&#x2F;08&#x2F;detected-anonymous-sudan-targets-the-website-of-the-economist&#x2F;)
 <!--END_SECTION:feed-->
 
 ## Quick Stats
