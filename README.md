@@ -12,11 +12,11 @@ Hi! I am Marco Ramilli. I dedicated all my life in working for what is my passio
 
 ## News from Personal Blog
 <!--START_SECTION:feed-->
-* [Detected: Tri-city Medical Center victim to INC RANSOM Ransomware](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;12&#x2F;08&#x2F;detected-tri-city-medical-center-victim-to-inc-ransom-ransomware&#x2F;)
-* [Detected: Allegedly leaked the database of Adityapur Dies](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;12&#x2F;08&#x2F;detected-allegedly-leaked-the-database-of-adityapur-dies&#x2F;)
-* [Detected: Omega Interventional Pain Clinic falls victim to LockBit Ransomware](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;12&#x2F;08&#x2F;detected-omega-interventional-pain-clinic-falls-victim-to-lockbit-ransomware&#x2F;)
-* [Detected: Alleged sale of unauthorized access to Bidasoa Activa](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;12&#x2F;08&#x2F;detected-alleged-sale-of-unauthorized-access-to-bidasoa-activa&#x2F;)
-* [Detected: Anonymous Sudan targets the website of The Economist](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;12&#x2F;08&#x2F;detected-anonymous-sudan-targets-the-website-of-the-economist&#x2F;)
+* [Detected: EXECUTOR DDOS targets J.K.K. Munirajah college of Technology website](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;12&#x2F;09&#x2F;detected-executor-ddos-targets-j-k-k-munirajah-college-of-technology-website&#x2F;)
+* [Detected: Graphic Solutions Group Inc. falls victim to Daixin Ransomware](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;12&#x2F;09&#x2F;detected-graphic-solutions-group-inc-falls-victim-to-daixin-ransomware&#x2F;)
+* [Detected: Alleged sale of Android Botnet](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;12&#x2F;09&#x2F;detected-alleged-sale-of-android-botnet&#x2F;)
+* [Detected: GARUDA FROM CYBER targets Aran Group website](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;12&#x2F;09&#x2F;detected-garuda-from-cyber-targets-aran-group-website&#x2F;)
+* [Detected: Anonymous Sudan targets the website of Trust Wallet](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;12&#x2F;09&#x2F;detected-anonymous-sudan-targets-the-website-of-trust-wallet&#x2F;)
 <!--END_SECTION:feed-->
 
 ## Quick Stats
