@@ -12,11 +12,11 @@ Hi! I am Marco Ramilli. I dedicated all my life in working for what is my passio
 
 ## News from Personal Blog
 <!--START_SECTION:feed-->
-* [Detected: EXECUTOR DDOS targets J.K.K. Munirajah college of Technology website](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;12&#x2F;09&#x2F;detected-executor-ddos-targets-j-k-k-munirajah-college-of-technology-website&#x2F;)
-* [Detected: Graphic Solutions Group Inc. falls victim to Daixin Ransomware](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;12&#x2F;09&#x2F;detected-graphic-solutions-group-inc-falls-victim-to-daixin-ransomware&#x2F;)
-* [Detected: Alleged sale of Android Botnet](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;12&#x2F;09&#x2F;detected-alleged-sale-of-android-botnet&#x2F;)
-* [Detected: GARUDA FROM CYBER targets Aran Group website](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;12&#x2F;09&#x2F;detected-garuda-from-cyber-targets-aran-group-website&#x2F;)
-* [Detected: Anonymous Sudan targets the website of Trust Wallet](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;12&#x2F;09&#x2F;detected-anonymous-sudan-targets-the-website-of-trust-wallet&#x2F;)
+* [The Rising of Protestware During Times of War](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;11&#x2F;20&#x2F;the-rising-of-protestware-during-times-of-war&#x2F;)
+* [Amazing Books Podcast](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;10&#x2F;16&#x2F;amazing-books-podcast&#x2F;)
+* [Understanding and Defending Against Microsoft 365 Attacks](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;09&#x2F;29&#x2F;understanding-and-defending-against-microsoft-365-attacks&#x2F;)
+* [Malware Persistence Locations: Windows and Linux](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;09&#x2F;23&#x2F;malware-persistence-locations-windows-and-linux&#x2F;)
+* [Leading the uncertainty: the decision-driven approach](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;09&#x2F;14&#x2F;leading-the-uncertainty-the-decision-driven-approach&#x2F;)
 <!--END_SECTION:feed-->
 
 ## Quick Stats
