@@ -12,11 +12,11 @@ Hi! I am Marco Ramilli. I dedicated all my life in working for what is my passio
 
 ## News from Personal Blog
 <!--START_SECTION:feed-->
-* [Technical Data Sheet: NoName057(16)](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;12&#x2F;15&#x2F;technical-data-sheet-noname05716&#x2F;)
-* [The Rising of Protestware During Times of War](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;11&#x2F;20&#x2F;the-rising-of-protestware-during-times-of-war&#x2F;)
-* [Amazing Books Podcast](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;10&#x2F;16&#x2F;amazing-books-podcast&#x2F;)
-* [Understanding and Defending Against Microsoft 365 Attacks](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;09&#x2F;29&#x2F;understanding-and-defending-against-microsoft-365-attacks&#x2F;)
-* [Malware Persistence Locations: Windows and Linux](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;09&#x2F;23&#x2F;malware-persistence-locations-windows-and-linux&#x2F;)
+* [Detected: GARUDA FROM CYBER targets Bharat Skills’ website](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;12&#x2F;18&#x2F;detected-garuda-from-cyber-targets-bharat-skills-website&#x2F;)
+* [Detected: SYLHET GANG-SG targets Gulf Today’s website](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;12&#x2F;18&#x2F;detected-sylhet-gang-sg-targets-gulf-todays-website&#x2F;)
+* [Detected: THE ANONYMOUS BD targets Cochin International Airport website](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;12&#x2F;18&#x2F;detected-the-anonymous-bd-targets-cochin-international-airport-website&#x2F;)
+* [Detected: Alleged data breach of Dubai Civil Aviation Authority](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;12&#x2F;18&#x2F;detected-alleged-data-breach-of-dubai-civil-aviation-authority&#x2F;)
+* [Detected: Power Proof targets Ubuy website](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;12&#x2F;18&#x2F;detected-power-proof-targets-ubuy-website&#x2F;)
 <!--END_SECTION:feed-->
 
 ## Quick Stats
