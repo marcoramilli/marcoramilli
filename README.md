@@ -12,11 +12,11 @@ Hi! I am Marco Ramilli. I dedicated all my life in working for what is my passio
 
 ## News from Personal Blog
 <!--START_SECTION:feed-->
-* [Detected: GARUDA FROM CYBER targets Bharat Skills’ website](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;12&#x2F;18&#x2F;detected-garuda-from-cyber-targets-bharat-skills-website&#x2F;)
-* [Detected: SYLHET GANG-SG targets Gulf Today’s website](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;12&#x2F;18&#x2F;detected-sylhet-gang-sg-targets-gulf-todays-website&#x2F;)
-* [Detected: THE ANONYMOUS BD targets Cochin International Airport website](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;12&#x2F;18&#x2F;detected-the-anonymous-bd-targets-cochin-international-airport-website&#x2F;)
-* [Detected: Alleged data breach of Dubai Civil Aviation Authority](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;12&#x2F;18&#x2F;detected-alleged-data-breach-of-dubai-civil-aviation-authority&#x2F;)
-* [Detected: Power Proof targets Ubuy website](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;12&#x2F;18&#x2F;detected-power-proof-targets-ubuy-website&#x2F;)
+* [Detected: GARUDA FROM CYBER targets the website of Rajarshi Shahu College, Latur](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;12&#x2F;19&#x2F;detected-garuda-from-cyber-targets-the-website-of-rajarshi-shahu-college-latur&#x2F;)
+* [Detected: INFINITE INSIGHT.ID targets the website of SONY INDIA SOFTWARE CENTRE](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;12&#x2F;19&#x2F;detected-infinite-insight-id-targets-the-website-of-sony-india-software-centre&#x2F;)
+* [Detected: Anonymous Collective targets the website of Ayala Pharmaceuticals](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;12&#x2F;19&#x2F;detected-anonymous-collective-targets-the-website-of-ayala-pharmaceuticals-2&#x2F;)
+* [Detected: STUCX TEAM targets the website of Autoschade Wielhoven](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;12&#x2F;19&#x2F;detected-stucx-team-targets-the-website-of-autoschade-wielhoven&#x2F;)
+* [Detected: StarsX Team targets the website of Indian Police Foundation](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;12&#x2F;19&#x2F;detected-starsx-team-targets-the-website-of-indian-police-foundation&#x2F;)
 <!--END_SECTION:feed-->
 
 ## Quick Stats
