@@ -12,11 +12,11 @@ Hi! I am Marco Ramilli. I dedicated all my life in working for what is my passio
 
 ## News from Personal Blog
 <!--START_SECTION:feed-->
+* [Anthropic Unveils Groundbreaking Insights into Large Language Models](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2024&#x2F;05&#x2F;25&#x2F;anthropic-unveils-groundbreaking-insights-into-large-language-models&#x2F;)
 * [XZ Utils Backdoor (CVE-2024-3094): Personal Notes](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2024&#x2F;04&#x2F;03&#x2F;xz-utils-backdoor-cve-2024-3094-personal-notes&#x2F;)
 * [i-SOON Data Leak: Key Points](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2024&#x2F;02&#x2F;26&#x2F;i-soon-data-leak-key-points&#x2F;)
 * [X Gold Badges: a new proliferating market](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2024&#x2F;01&#x2F;08&#x2F;x-gold-badges-a-new-proliferating-market&#x2F;)
 * [Technical Data Sheet: LOCKBIT 3.0](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;12&#x2F;20&#x2F;technical-data-sheet-lockbit-3-0&#x2F;)
-* [Technical Data Sheet: NoName057(16)](https:&#x2F;&#x2F;marcoramilli.com&#x2F;2023&#x2F;12&#x2F;15&#x2F;technical-data-sheet-noname05716&#x2F;)
 <!--END_SECTION:feed-->
 
 ## Quick Stats
